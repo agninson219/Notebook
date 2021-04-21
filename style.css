@@ -1,0 +1,25 @@
+body{
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+    
+}
+
+.resposive{
+    max-width:75%;
+    height: auto;
+}
+
+img{
+    padding:15px;
+}
+
+.display{
+    max-width: 75%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.scroll-box{
+    overflow-y: auto;
+    height: 500px;
+    float: left;
+    padding: 1rem;
+}
